@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "User Enumeratation",
+    "owner": "me",
+    "description": "A user enumeration allows an unauthenticated attacker to make requests to securityRealm to enumerate all users in the system."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "me"
+  }
+}
