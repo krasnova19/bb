@@ -8,7 +8,7 @@
     "contributors": [],
     "diagrams": [
       {
-        "title": "user enumeration threat#1",
+        "title": "RCE threat #2",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0,
         "diagramJson": {
